@@ -25,6 +25,7 @@
         justify-content: space-evenly;
         padding: 8px 0;
         &__button {
+          cursor: pointer;
           width: 80px;
           border: 1px solid #000;
           border-radius: 9px;
